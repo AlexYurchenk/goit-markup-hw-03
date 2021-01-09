@@ -198,8 +198,8 @@ color: var(--primary-text-color);
 margin-bottom: 20px;
 }
 
-.portfolio-description:last-child{margin-bottom: 0%;}
-
+.portfolio-description{margin-bottom: 30px;}
+.portfolio-description:last-child(3n){margin-bottom: 0%;}
 .footer-contacts:focus,
 .footer-contacts:hover{color: var(--accent-color);}
 
