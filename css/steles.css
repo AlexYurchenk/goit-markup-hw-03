@@ -266,7 +266,8 @@ margin-left: auto;}
   }
   .list-portfolio li{
     width:370px;
-  margin-right: 0%;
+  margin-right: 30px;
+
 
   }
   .list-portfolio:nth-child(3n){
