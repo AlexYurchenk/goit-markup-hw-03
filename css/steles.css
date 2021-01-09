@@ -76,7 +76,7 @@ margin-bottom: 9px;}
 .header{background-color: var(--secondary-white-color)}
 .team {background-color: var(--team-background-color);
 padding-top: 94px;
-padding-bottom: 94px;
+padding-bottom: 14px;
 margin-bottom:0%}
 .footer{background-color: var(--footer-background-color);
 padding-top: 60px;
@@ -167,7 +167,7 @@ margin-bottom: 10px;}
 .team-position{
   font-size: 16px;
 line-height: 1.19px;
-margin-bottom: 30px;
+margin-bottom: 14px;
 padding: 0%;
 }
 .portfolio-title{
@@ -209,3 +209,5 @@ margin-bottom: 94px;}
   margin-top: 94px;
   margin-bottom: 34px;
 }
+
+.team-position:{margin-bottom: 0%;}
