@@ -212,11 +212,7 @@ border: none;}
 
 
 .container{
-<<<<<<< HEAD
-  width:1230px;
-=======
   width: 1230px;
->>>>>>> 36f76183a6c06d41cba77b66e37a9a17f649b5af
   padding-left: 15px;
   padding-right: 15px;
   margin-left: auto;
@@ -273,7 +269,6 @@ margin-left: auto;}
     margin-right: auto;
     margin: -15px;
     display: flex;
-<<<<<<< HEAD
     flex-wrap: wrap;}
 
     .list-portfolio li{width: 370px;
@@ -300,21 +295,3 @@ margin-left: auto;}
   padding: 0%;
   display: flex;
   flex-wrap: wrap;}
-  .list-last :last-child{margin-right: 0%;}
-  .item-team{margin-right: 30px;
-  background-color: #fff;}
-  .bgc{background-color: #fff;}
-=======
-    flex-wrap: wrap;
-
-  }
-  .list-portfolio li{
-    width:370px;
-  margin-right: 30px;
-
-
-  }
-  .list-portfolio:nth-child(3n){
-    margin-right: 0%;
-  }
->>>>>>> 36f76183a6c06d41cba77b66e37a9a17f649b5af
